@@ -6,3 +6,4 @@ logs/
 data/
 __pychache__
 test.py
+api/faiss_index
