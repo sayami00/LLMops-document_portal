@@ -1,4 +1,4 @@
-name: CI/CD to ECS Fargate
+name: CI/CD to ECS Fargate deployent
 on:
   workflow_run:
     workflows: ["Run Unit Tests"]   # Match the name in your ci.yaml
